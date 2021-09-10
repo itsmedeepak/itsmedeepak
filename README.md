@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=itsmedeepak&color=brightgreen)
 
 <h2> नमस्ते (Namaste) 🙏 </h2> <h2> I'm Deepak Kumar <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40" ></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20%">
 <h3> I  ❤️ to code. 
 </h3>
 
@@ -11,7 +11,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/itsmedeepak?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://itsmedeepak.github.io/portfolio/)
 ![](https://visitor-badge.glitch.me/badge?page_id=itsmedeepak)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+![Waka Readme]()
 
 👇 Hit in your console or terminal to connect with me.
 

@@ -11,7 +11,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/itsmedeepak?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://itsmedeepak.github.io/portfolio/)
 ![](https://visitor-badge.glitch.me/badge?page_id=itsmedeepak)
-![Waka Readme]()
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 👇 Hit in your console or terminal to connect with me.
 
